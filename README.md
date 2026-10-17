@@ -207,4 +207,4 @@ ViGlance is offered as a **full free version** with all features and updates inc
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-16 22:26:25 UTC
+**Last updated:** 2026-10-17 00:59:09 UTC
